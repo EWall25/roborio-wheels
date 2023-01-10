@@ -43,3 +43,4 @@ version = "5.5.0"
 
 [packages."astropy"]
 version = "5.2.1"
+build_pip_requirements = ["extension-helpers==1.0.0"]
