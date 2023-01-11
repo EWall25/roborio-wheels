@@ -43,5 +43,4 @@ version = "5.5.0"
 
 [packages."astropy"]
 version = "5.2.1"
-build_pip_requirements = ["extension-helpers==1.0.0"]
-install_requirements = ["numpy>=1.20", "pyerfa>=2.0", "PyYAML>=3.13", "packaging>=19.0"]
+build_pip_requirements = ["extension-helpers==1.0.0", "numpy>=1.20", "pyerfa>=2.0", "PyYAML>=3.13", "packaging>=19.0"]
